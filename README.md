@@ -1,2 +1,2 @@
 # Algorithms
-A visualization of popular algorithms on popular data structures
+A visualization of common algorithms on common data structures
